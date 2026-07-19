@@ -28,6 +28,7 @@ Full-Stack Web Developer | Discover what I can build for you | Help your busines
     HTML5, CSS3, JavaScript (Vanilla), Tailwind CSS
   **BACKEND & DATABASES:**  
     PHP, Laravel, MySQL
+    
   **TOOLS:**  
     Git, GitHub, APIs Integration, SSL, OAuth, AWS basics
 
