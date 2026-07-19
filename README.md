@@ -13,11 +13,14 @@ Full-Stack Web Developer | Discover what I can build for you | Help your busines
   🌐 CUSTOM WEB APPLICATIONS ! 
         Tailored front-end and back-end architectures built to your exact business specifications.
         [ Booking systems, Admin dashboard, User panel, Payment system like Stripe, APIs integration.]
+        
   🔏 IRONCLAD SECURITY ! 
         Every page is manually secured to protect your user data and prevent vulnerabilities.
         [ SSL implementation, Token-based systems, secure authentication ]
+        
   💡PIXEL-PERFECT BRANDING ! 
         100% unique designs that match your brand identity perfectly — no restrictive templates.
+        
   📐 CLEAN, SCALABLE CODE ! 
         Hand-coded solutions optimized for fast loading speeds and future feature expansions.
 
@@ -26,6 +29,7 @@ Full-Stack Web Developer | Discover what I can build for you | Help your busines
 
   **FRONTEND:**  
     HTML5, CSS3, JavaScript (Vanilla), Tailwind CSS
+    
   **BACKEND & DATABASES:**  
     PHP, Laravel, MySQL
     
@@ -48,6 +52,7 @@ Custom-built internal + public web application for the CNTEMAD Madagascar instit
 
 🛑 WHY WORK WITH ME?
 I bridge the gap between complex code and smooth business operations.
+
 ⚡⚡⚡You will get clear communication, milestone-based updates, and a professional, stress-free development process.
 
 
