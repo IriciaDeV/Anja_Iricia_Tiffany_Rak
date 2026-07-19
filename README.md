@@ -1,6 +1,6 @@
 # Anja Iricia T. RAKOTOARIOSA. 
 
-Full-Stack Web Developer | Discover what I can build for you and help your business grow ! 
+Full-Stack Web Developer | Discover what I can build for you to help your business grow ! 
 
 
 
